@@ -1,0 +1,18 @@
+﻿  Rocket.cpp
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(20,24): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(21,24): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(34,23): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(35,23): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(47,23): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(48,23): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(60,23): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(61,23): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(73,23): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(95,16): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(95,11): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(153,16): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(153,11): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(226,16): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(226,11): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Alex\source\repos\OpenGL_tutorial\tut_Basic_Objects\Rocket.cpp(230,16): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  tut_Basic_Objects.vcxproj -> C:\Users\Alex\source\repos\OpenGL_tutorial\Debug\tut_Basic_Objects.exe
